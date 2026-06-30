@@ -16,6 +16,6 @@ public static void main(String[] args) {
 	}
 }
 }
-// 1. we can apply enumeration concept only for legacy classes and it is not a universal ccursor.
+// 1. we can apply enumeration concept nly for legacy classes and it is not a universal ccursor.
 // 2. By Using Enumeration we can get only read accesses and we can't perform remove operations.
 // to overcome these limitations sun people introduced the Iterator concept in 1.2v
