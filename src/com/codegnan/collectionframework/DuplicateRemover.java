@@ -1,4 +1,4 @@
-package com.codegnan.collectionframework;
+package com.codegnan.CollectionFramework;
 
 import java.util.ArrayList;
 import java.util.Scanner;
